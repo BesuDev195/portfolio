@@ -71,7 +71,7 @@ export const siteConfig: SiteConfig = {
     {
       id: "insa-camp",
       role: "Summer Camp Trainee",
-      organization: "4th INSA Cyber Summer Camp",
+      organization: "5th INSA Cyber Summer Camp",
       period: "Training Program",
       description:
         "Completed rigorous specialized training in offensive cyber operations, practical web application penetration testing, network assessment, and secure defense strategies.",
